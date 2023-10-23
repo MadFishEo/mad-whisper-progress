@@ -1,4 +1,4 @@
-# Whisper
+# Mad-Whisper-Progress
 
 [[Madowl]](https://www.madowl.kr)
 [[Blog]](https://openai.com/blog/whisper)
